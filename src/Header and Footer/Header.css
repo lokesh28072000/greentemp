@@ -1,0 +1,13 @@
+.header-top{
+    background: #399918;
+    height:40px;
+    display: flex;
+}
+.header-topcontainer{
+    background: #399918;
+    height:40px;
+    display: flex;
+ justify-content:space-between;
+ color: white;
+ padding: 0 20px 0 20px;
+}
